@@ -1,17 +1,18 @@
-1. What is your Understanding of Blockchain?
+1) What is your Understanding of Blockchain?
 Ans: A blockchain is similar to a chain of blocks where the data is divided and stored into blocks are these blocks are interlinked to and also several copies of this blocks exist. This is a type of peer to peer based computing. In other words, blockchain a ledger of facts. It helps one achieve verifiability,data transparency, data integrity and decentralisation.
 
-2. What is the core problem that the Blockchain is trying to solve?
+2) What is the core problem that the Blockchain is trying to solve?
 Ans: The core problems that blockchain is trying to solve are: i) Security ii) Verifiabilty iii) Authenticity
 
-Q3) What are the few features that blockchain will give you ?
+3) What are the few features that blockchain will give you ?
 Ans: i) Verifiablility ii) Tamper Proof iii) Decentralisation iv) Immutable
 
-Q4)What all things does blockchain contains ?
+4)What all things does blockchain contains ?
 Ans: i) The block number ii) Transaction records (data or content) iii) Signature of the previous block (SHA-256) iv) Mining key
 
-Q5)How is verifiability of blockchain is been attained ?
-Ans: We know that each block contains the previous block's hash (i.e., the fingerprint). Any small change in any of the blocks will change the hash, which would not match up the other block's hashes (SHA256),else the hash would match. By this way verifiablity is achieved in Blockchain.
+5)How is verifiability of blockchain is been attained ?
+Ans: We know that each block contains the previous block's hash (i.e., the fingerprint). Any small change in any of the blocks will change the hash, which would not match up the other block's hashes (SHA256),else the hash would match. By this way verifiablity is achieved in Blockchain. Also the other copy peer systems would have a copy the blocks, the block of one peer's hash can be compared with the other peer in the network to check if anything is modified or not.
+
 
 
 
